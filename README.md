@@ -41,7 +41,7 @@ Here’s how the application looks and works:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/daily-js-app-3.git
+   git clone https://github.com/enesatacan/Generate-Password
 
 
 ![image](https://github.com/user-attachments/assets/040156a4-87b3-4f67-bfe3-461ac65f2280)
