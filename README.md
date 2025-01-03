@@ -1,4 +1,4 @@
-# Daily JavaScript App - 3 🚀 
+# Daily JavaScript App - 4 🚀 
 
 This repository is part of a daily challenge to build a JavaScript application every day. The goal is to enhance my JavaScript skills and cultivate the habit of consistent coding. 💻
 
